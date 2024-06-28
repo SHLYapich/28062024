@@ -1,1 +1,6 @@
 # file1
+[vetka1 (root-commit) 2bf78fc] изменения1
+ 3 files changed, 3 insertions(+)
+ create mode 100644 text1.txt
+ create mode 100644 text2.txt
+ create mode 100644 text3.txt
